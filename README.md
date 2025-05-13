@@ -18,7 +18,7 @@ This is a simple web application built with **Next.js** that allows users to reg
 
 ## View the Demo page
 
-To view the page. go to this url - 
+To view the page. go to this url - https://patient-registration-app-pi.vercel.app/
 
 ## Setup Instructions
 
